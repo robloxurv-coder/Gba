@@ -1,0 +1,5 @@
+.tools/
+build/
+*.sav
+*.ss0
+__pycache__/
